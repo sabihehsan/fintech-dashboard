@@ -6,7 +6,7 @@ import plotly.graph_objects as go
 # 1. Page Configuration
 st.set_page_config(page_title="Fintech Analytics Dashboard", layout="wide")
 st.title("📈 Fintech Stock Analytics Dashboard")
-st.markdown("Bridge your CS and Finance skills. This app fetches real-time market data and calculates moving averages.")
+st.markdown("Fetches real-time market data and calculates moving averages.")
 
 # 2. Sidebar Controls
 st.sidebar.header("Dashboard Controls")
